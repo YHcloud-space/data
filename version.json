@@ -2,6 +2,6 @@
   "versionCode": 4,
   "versionName": "1.0.4",
   "downloadUrl": "https://data.cloudgj.cn/hcquick_v1.0.4.apk",
-  "updateLog": "目前最完美的版本！！",
+  "updateLog": "下载失败陷入死循环！！",
   "forceUpdate": false
 }
