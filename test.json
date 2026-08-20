@@ -2,6 +2,6 @@
   "versionCode": 6,
   "versionName": "1.0.6",
   "downloadUrl": "https://cloudgj.cn/data/hcquick_v1.0.6.apk",
-  "updateLog": "1.增加字体调节;\n2.增加右滑返回;\n3.增加标签类子按钮：加整卷;\n3.按钮显示所有文字不截断;\n4.删除单机/云盘功能;\n5.删除导入/导出功能;\n5全面优化代码",
+  "updateLog": "1.增加字体调节;\n2.增加右滑返回;\n3.增加标签类子按钮：加整卷;\n3.按钮显示所有文字不截断;\n4.删除单机/云盘功能;\n5.删除导入/导出功能;\n6.全面优化代码",
   "forceUpdate": false
 }
